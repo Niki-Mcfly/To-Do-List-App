@@ -1,0 +1,56 @@
+#container {
+  background-color: aquamarine;
+  width: 40%;
+  height: 600px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+
+ 
+}
+
+#container div {
+margin: auto; 
+width:400px;
+height: 5rem;
+display: flex;
+border-style:   solid
+
+
+}
+
+#header {
+
+}
+
+#date {
+background-color:
+}
+
+#datum {
+
+    background-color:fuchsia;
+}
+#add{
+
+}
+
+#done {
+
+}
+
+#delete {
+
+    
+   
+}
+
+#edit { 
+
+ }
+
+
+img  {
+        height:2em;
+
+    }
